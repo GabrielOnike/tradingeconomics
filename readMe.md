@@ -1,10 +1,13 @@
 
 
 README
+
 SUMMARY : ServerSide Application that displays 30years of GDP data of selected countries in a list
+
 TECHNOLOGIES: JavaScript, Express, NodeJS, SocketIO, HandleBars
 
 TO RUN 
+
 STEP 1 - Clone and Fork branch
 
 STEP 2 - In /App.Js : 
