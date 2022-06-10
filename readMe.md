@@ -22,4 +22,4 @@ npm run dev (run in Dev mode)
 OR
 node app (run in production)
 
-![Screenshot 2022-06-10 at 11 34 48 AM](https://user-images.githubusercontent.com/29656791/173047595-f3b43295-f773-46cb-a45f-97c5d9e97dd3.png)
+![APP IMAGE](https://user-images.githubusercontent.com/29656791/173047595-f3b43295-f773-46cb-a45f-97c5d9e97dd3.png)
