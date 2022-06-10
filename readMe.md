@@ -1,16 +1,19 @@
 
-- https://stackoverflow.com/questions/54603426/axios-get-call-returning-response-data-map-is-not-a-function
-// solving error with axios and router while returning .map function
 
+README
+SUMMARY : ServerSide Application that displays 30years of GDP data of selected countries in a list
+TECHNOLOGIES: JavaScript, Express, NodeJS, SocketIO, HandleBars
 
-- https://github.com/socketio/socket.io/issues/936
-// fixing socket io error from server variable issue in app.js
+TO RUN 
+STEP 1 - Clone and Fork branch
 
-- https://stackoverflow.com/questions/17874181/format-date-in-meteor-handlebars-bracers-timestamp
-// formatting timestamp with moment and handlebars
+STEP 2 - In /App.Js : 
+replace process.env.CLIENTKEY with your TRADING ECONOMICS ClientKey 
+OR
+create /.env and insert CLIENTKEY
+See - https://developer.tradingeconomics.com for more details
 
-- https://stackoverflow.com/questions/68467572/bootstrap-responsive-table-with-scrollable-tbody
-// using sticky top to display a table with scrollbar overflow
-
-- https://socket.io/get-started/chat
-// socket io basic instructions
+STEP 3 - Use Command: 
+npm run dev (run in Dev mode)
+OR
+node app (run in production)
