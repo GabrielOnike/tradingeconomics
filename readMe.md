@@ -2,7 +2,8 @@
 
 README
 
-SUMMARY : ServerSide Application that displays 30years of GDP data of selected countries in a list
+ABOUT : ServerSide Application that displays 30years of GDP data of selected countries in a list
+Data gotten from TradingEconomics API.
 
 TECHNOLOGIES: JavaScript, Express, NodeJS, SocketIO, HandleBars
 
